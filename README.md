@@ -1,16 +1,23 @@
-## Hi there 👋
+## 👋🏼 Hey, I'm Gusta
 
-<!--
-**camargogustavo/CamargoGustavo** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
-Here are some ideas to get you started:
+## About for me
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+Hellou my names is Gustavo and I am 20 years old. I am currently studying Java and engineering software.
+I like tech and I'm curious about this area.
+
+## 🔭 Current Endeavors 
+
+I'm currently working as a freelancer in Brazil, where my journey involves both building and learning.
+Here's what I'm currently focused on:
+
+- I'm engaged in exciting java-projects.
+- I'm exploring different tools and libraries to enhance my skill set.
+- I'm an early riser, always driven and constantly learning in the tech world.
+
+
+## 📫 Contact 
+
+or a quick response, DM me on [Instagram](https://www.instagram.com/gusta.ske/) or [LinkedIn](https://www.linkedin.com/in/gustavo-camargo-5498a2246/). 
+ 
+ For professional inquiries, reach out via email at [gustavoprofissional31@gmail.com](mailto:gustavoprofissional31@gmail.com). 
