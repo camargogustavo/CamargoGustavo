@@ -1,5 +1,3 @@
-## 👋🏼 Hey, I'm Gusta
-
 ## Olá, sou o Gustavo 👋
 
 Estudante de Engenharia de Software, com foco em Java. Atuo como freelancer construindo projetos práticos enquanto aprofundo meus estudos na área.
